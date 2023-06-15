@@ -2,7 +2,7 @@
 
 <h2 align="center">Um parágrafo da descrição do projeto vai aqui</h2>
 
-<h3 align=center">Fotos do projeto</h3>
+<h3 align="center">Fotos do projeto</h3>
 
 <br>
 
@@ -108,4 +108,4 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 
 <h2 align="center">Updates</h2>
 
-<h3 align=center">no updates</h3>
+<h3 align="center">no updates</h3>
