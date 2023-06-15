@@ -1,0 +1,448 @@
+/* MOBILE */
+
+// Display Mobile padrão 
+
+main .section-1 , main .section-1_container-1 , .section-1_container-2 , .section-2 , .section-2_container-1 , .section-3 , .section-3_container-0 , .section-4 , .section-4_container-2 , .section-5 , .section-5_container-1 , .section-5_cards , .section-6 , .section-6_container-1 , .section-6_div_input {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+
+
+/* SEÇÃO 1 - PRINCIPAL */
+ 
+main .section-1 {
+    // display: flex;
+    // flex-direction: column;
+    // align-items: center;
+    background-image: url(../assets/imgs/section-1_background.webp);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 100px 5px;
+    gap: 100px;
+}
+
+main .section-1_container-1 {
+    // display: flex;
+    // flex-direction: column;
+    // align-items: center;
+    width: 100%;
+    align-self: center;
+    gap: 20px;
+}
+
+main .section-1_container-2 {
+    width: 100%;
+}
+
+main .section-1_img-1 {
+    width: 300px;
+}
+
+
+/* SEÇÃO 2 - PULSEIRAS */
+
+main .section-2 {
+    // display: flex;
+    // flex-direction: column;
+    // align-items: center;
+    background-image: url(../assets/imgs/section-2_backgroud.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 100px 5px;
+    gap: 100px;
+}
+
+main .section-2_container-1 {
+    // display: flex;
+    // flex-direction: column;
+    // align-items: center;
+    gap: 20px;
+}
+
+main .section-2_img-1 {
+    width: 80%;
+}
+
+
+/* SEÇÃO 3 - RELOGIO E TEXTO*/
+
+main .section-3 {
+    // display: flex;
+    // flex-direction: column;
+    // align-items: center;
+    background-image: url(../assets/imgs/section-3_background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 100px 5px;
+    gap: 100px;
+}
+
+main .section-3_container-0 {
+    // display: flex;
+    // flex-direction: column;
+    // align-items: center;
+    gap: 20px;
+}
+
+main .section-3_img-1 {
+    width: 350px;
+}
+
+main .section-3_img-2 {
+    width: 250px;
+}
+
+
+/* SEÇÃO 4 DOIS BANNERS */
+
+main .section-4 {
+    // display: flex;
+    // flex-direction: column;
+    // align-items: center;
+    padding: 100px 5px;
+    gap: 50px;
+}
+
+main .section-4_container-2 {
+    flex-direction: row;
+    gap: 20px;
+}
+
+main .section-4_img-0 {
+    width: 170px;
+}
+
+
+/* SEÇÃO 5 ESPECIFICAÇÕES */
+
+main .section-5 {
+    // display: flex;
+    // flex-direction: column;
+    // align-items: center;
+    background-image: url(../assets/imgs/section-5_background.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 5px;
+    gap: 100px;
+    border-bottom: 1px solid var(--roxo);
+    border-top: 1px solid var(--roxo);
+}
+
+main .section-5_container-1 {
+    gap: 50px;
+}
+
+main .section-5_img-1 {
+    width: 200px;
+}
+
+/* CARDS DAS ESPECIFICAÇÕES */
+
+main .section-5_cards {
+    // display: flex;
+    // flex-direction: column;
+    // align-self: center;
+    gap: 20px;
+}
+
+main .section-5_card {
+    border-radius: 10px;
+    width: 250px;
+    background-color: rgb(53, 51, 51);
+    box-shadow: 10px 5px 5px black;
+    padding: 5px;
+}
+
+main .section-5_card > p {
+    display: flex;
+    align-items: center;
+    text-align: start;
+    font-size: 14px;
+    font-weight: 400;
+    gap: 5px;
+}
+
+/* SEÇÃO 6 INPUT */
+
+main .section-6 {
+    // display: flex;
+    // flex-direction: column;
+    align-items: center;
+}
+
+main .section-6_container-1 {
+    // display: flex;
+    // flex-direction: column;
+    // align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 100px 5px;
+    gap: 50px;
+}
+
+main .section-6_div_input {
+    // display: flex;
+    flex-direction: row;
+    // align-items: center;
+    width: 95%;
+    max-width: 700px;
+    background-color: var(--branco);
+    border-radius: 10px;
+    padding: 4px;
+}
+
+main .section-6_input {
+    width: 100%;
+    color: #000;
+    text-align: start;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+/* FOOTER */
+
+footer .footer { 
+    border-top: 1px solid var(--branco);
+    background-color: #cdcdcd11;
+}
+
+footer .footer_info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #cdcdcd11;
+    padding: 50px 5px;
+    gap: 90px;
+}
+
+footer .footer_empresa {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* width: 25%; */
+    gap: 20px;
+}
+
+footer .footer_empresa p {
+    width: 300px;
+    text-align: start;
+}
+
+footer .footer_empresa > img {  
+    width: 200px;
+}
+
+footer .footer_empresa > ul {
+    display: flex;
+    gap: 20px;
+}
+
+footer .footer_empresa ul li a > img {
+    width: 32px;
+}
+
+footer .footer_contato {
+    display: flex;
+    flex-direction: column;
+    text-decoration-line: underline;
+    /* width: 20%; */
+    gap: 50px;
+}
+
+footer .footer_contato > ul {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;  
+}
+
+footer .footer_dev {
+    display: flex;
+    flex-direction: column;
+    text-decoration-line: underline;
+    /* width: 20%; */
+    gap: 50px;
+}
+
+footer .footer_dev > ul {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    gap: 20px;
+}
+
+footer .footer_dev ul li a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+}
+
+footer .footer_endereco {
+    display: flex;
+    flex-direction: column;
+    /* width: 20%; */
+    gap: 50px;
+}
+
+footer .footer_endereco address > ul {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+footer .footer_desenvolvido {
+    background-color: var(--background);
+    padding: 15px;
+}
+
+/* TABLETS */
+
+@media screen and (min-width:768px) {
+
+    /* SEÇÃO 1 - PRINCIPAL */
+
+    main .section-1{
+        height: 100vh;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        padding: 0px 0px;
+        gap: 0px;
+    }
+
+    main .section-1_img-1 {
+        width: 370px;
+    }
+
+    /* SEÇÃO 2 - PULSEIRAS */
+
+    /* SEÇÃO 3 - RELOGIO E TEXTO*/
+
+    main .section-3_img-1 {
+        width: 570px;
+    }
+    
+    main .section-3_img-2 {
+        width: 370px;
+    }
+
+    /* SEÇÃO 4 DOIS BANNERS */
+
+    main .section-4_img-0 {
+        width: 350px;
+    }
+    
+    /* SEÇÃO 5 ESPECIFICAÇÕES */
+
+    main .section-5_img-1 {
+        width: 300px;
+    }
+
+    /* SEÇÃO 6 INPUT */
+
+    /* FOOTER */
+
+    footer .footer_info {
+        display: flex;
+        justify-content: space-around;
+        flex-flow: row wrap;
+    }
+
+    footer .footer_empresa {
+        width: 40%;
+    }
+
+    footer .footer_empresa p {
+        width: auto;
+    }
+
+    footer .footer_contato {
+        width: 40%;
+    }
+
+    footer .footer_dev {
+        width: 20%;
+    }
+
+    footer .footer_endereco {
+        width: 20%;
+    }
+}
+/* PC */
+
+@media screen and (min-width:1280px) {
+    
+    /* FONTES DO TEXTOS  */
+
+    main h2 {
+        font-size: 90px;
+    }
+
+    main h3 {
+        font-size: 40px;
+    }
+
+    /* SEÇÃO 1 - PRINCIPAL */
+
+    main .section-1_img-1 {
+        width: 470px;
+    }
+
+    /* SEÇÃO 2 - PULSEIRAS */
+
+    /* SEÇÃO 3 - RELOGIO E TEXTO*/
+
+    main .section-3_img-1 {
+        width: 570px;
+    }
+    
+    main .section-3_img-2 {
+        width: 370px;
+    }
+
+    /* SEÇÃO 4 DOIS BANNERS */
+
+    main .section-4_img-0 {
+        width: 400px;
+    }
+    
+    /* SEÇÃO 5 ESPECIFICAÇÕES */
+
+    main .section-5_img-1 {
+        width: 300px;
+    }
+
+    main .section-5_cards {
+        flex-direction: row;
+    }
+
+    /* SEÇÃO 6 INPUT */
+
+    /* FOOTER */
+    
+    footer .footer_empresa {
+        width: 20%;
+    }
+
+    footer .footer_empresa p {
+        width: auto;
+    }
+
+    footer .footer_contato {
+        width: 20%;
+    }
+
+    footer .footer_dev {
+        width: 20%;
+    }
+
+    footer .footer_endereco {
+        width: 20%;
+    }
+}
