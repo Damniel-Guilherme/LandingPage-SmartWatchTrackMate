@@ -1,5 +1,3 @@
-# Site_-_SmartWatch_TrackMate
-
 <h1 align="center">project</h1>
 
 <h2 align="center">Um parágrafo da descrição do projeto vai aqui</h2>
