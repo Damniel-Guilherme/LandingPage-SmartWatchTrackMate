@@ -39,7 +39,7 @@ O objetivo central deste projeto é promover a aquisição e aprimoramento dos c
 
 ## Demonstração
 
-![Demonstração](https://i.imgur.com/ip4BWc5.jpeg)
+![Demonstração](url img do projeo)
 
 ## Instalação ⚙️
 
