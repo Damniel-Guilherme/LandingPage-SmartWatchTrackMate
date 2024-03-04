@@ -95,7 +95,7 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 
 Lighthouse Chrome Test
 
-<img src="https://i.imgur.com/YCzqfgM.jpeg" width="300px">
+<img src="src" width="300px">
 
 ## Preview do Projeto 
 **Versão Desktop**
