@@ -100,7 +100,7 @@ Lighthouse Chrome Test
 ## Preview do Projeto 
 **Versão Desktop**
 
-<img src="https://i.imgur.com/EaFp2PJ.jpeg" width="550" height="300">  <img src="https://i.imgur.com/OTAtK0W.jpeg" width="550" height="300">
+<img src="url do projeto" width="550" height="300">  <img src="https://i.imgur.com/OTAtK0W.jpeg" width="550" height="300">
 
 **Versão Mobile**
 | <img src="https://i.imgur.com/GuHpsEM.jpeg" width="200"> | <img src="https://i.imgur.com/xUEkLw0.jpeg" width="200"> | <img src="https://i.imgur.com/HhUPp2i.jpeg" width="200"> |
