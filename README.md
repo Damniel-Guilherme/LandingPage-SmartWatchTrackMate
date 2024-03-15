@@ -34,8 +34,8 @@ O objetivo central deste projeto é promover a aquisição e aprimoramento dos c
 
 **Datas do Projeto:** 📅
 
-**Início:**  0̶7̶/̶0̶1̶/̶2̶0̶2̶4̶
-**Término:** ̶2̶6̶/̶0̶2̶/̶2̶0̶2̶4̶
+**Início:** ~~07/01/2024~~
+**Término:** ~~26/01/2024~~
 
 ## Demonstração
 
@@ -122,9 +122,9 @@ Durante o desenvolvimento deste projeto, aprendemos e praticamos diversas habili
 
 Esses aprendizados foram fundamentais para o sucesso e qualidade do nosso projeto, fornecendo uma base sólida para futuros desenvolvimentos e contribuições.
 
-## Técnicas Aplicadas 📌
+## ~~Técnicas Aplicadas~~  📌
 
-Neste projeto, aplicamos várias técnicas de desenvolvimento web, incluindo:
+Neste projeto,  ~~aplicamos~~  várias técnicas de desenvolvimento web, incluindo:
 
 - **Boas Práticas e Código Limpo:** O código foi escrito seguindo boas práticas de programação, com comentários claros para facilitar a compreensão e manutenção.
 - **Componentização:** Dividimos o site em componentes reutilizáveis, como header, main e footer, para promover a manutenção e escalabilidade do código.
