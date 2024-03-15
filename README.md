@@ -34,8 +34,8 @@ O objetivo central deste projeto é promover a aquisição e aprimoramento dos c
 
 **Datas do Projeto:** 📅
 
-**Início:** 17/01/2024
-**Término:** 09/02/2024
+**Início:**  0̶7̶/̶0̶1̶/̶2̶0̶2̶4̶
+**Término:** ̶2̶6̶/̶0̶2̶/̶2̶0̶2̶4̶
 
 ## Demonstração
 
