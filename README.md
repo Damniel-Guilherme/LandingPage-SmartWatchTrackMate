@@ -160,14 +160,14 @@ Este projeto está licenciado sob a Nome da Licença - veja o arquivo LICENSE pa
 
 Se você tiver alguma dúvida ou sugestão sobre o Título do Projeto, entre em contato:
 
-- danielguilhermetb@gmail.com 📧🙋‍♂️
-- Website 🌐
-- LinkedIn 💼
+- Email 📧: [danielguilhermetb@gmail.com](mailto:danielguilhermetb@gmail.com)
+- Website 🌐: [WebSite - developer damniel](https://damniel-guilherme.github.io/portifolio-dev.damniel/)
+- LinkedIn 💼: [Daniel Guilherme](https://www.linkedin.com/in/damniel-guilherme-2b1600250/)
 
 Não hesite em nos contatar. Estamos sempre aqui para ajudar!
 
 ## Updates 🔄
 
-Mantenha-se atualizado com as últimas novidades e atualizações do **Landing Page League of Legends**:
+Mantenha-se atualizado com as últimas novidades e atualizações do **Landing Page SmartWatch Track Mate**:
 
 - [Histórico de Atualizações](#) [**Sem Atualizações no Momento!!**]
