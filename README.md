@@ -109,6 +109,8 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
     </div>
 </div>
 
+![Gato fofo](https://s9.gifyu.com/images/SUVPu.gif)
+
 ## Testes 🔧
 
 Lighthouse Chrome Test
