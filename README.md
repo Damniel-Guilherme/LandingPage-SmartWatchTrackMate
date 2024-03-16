@@ -45,8 +45,8 @@ O objetivo central deste projeto é promover a aquisição e aprimoramento dos c
 
 **Datas do Projeto:** 📅
 
-⏳**Início:** ~~07/01/2024~~
-**Término:** ~~26/01/2024~~ ∞
+**Início:** ~~07/01/2024~~ ⏳
+**Término:** ~~26/01/2024~~ || ∞
 
 ## Preview do Projeto
 
@@ -178,11 +178,11 @@ Esses aprendizados foram fundamentais para o sucesso e qualidade do nosso projet
 
 Neste projeto,  ~~aplicamos~~  várias técnicas de desenvolvimento web, incluindo:
 
-- **Boas Práticas e Código Limpo:** O código foi escrito seguindo boas práticas de programação, com comentários claros para facilitar a compreensão e manutenção.
-- **Componentização:** Dividimos o site em componentes reutilizáveis, como header, main e footer, para promover a manutenção e escalabilidade do código.
-- **UI/UX Básico:** Aplicamos conceitos básicos de design de interface do usuário (UI) e experiência do usuário (UX) para garantir uma experiência agradável para o usuário final.
-- **Desempenho e Otimização de Imagens:** Implementamos técnicas de otimização para melhorar o desempenho do site, incluindo a compressão de imagens para reduzir o tempo de carregamento.
-- **SEO e Acessibilidade:** Utilizamos meta tags estratégicas para otimizar o site para mecanismos de busca (SEO) e implementamos práticas de acessibilidade para garantir que o site seja acessível para todos os usuários, incluindo aqueles com deficiências.
+- **Boas Práticas e Código Limpo:** ✔ O código foi escrito seguindo boas práticas de programação, com comentários claros para facilitar a compreensão e manutenção.
+- **Componentização:** ✔ Dividimos o site em componentes reutilizáveis, como header, main e footer, para promover a manutenção e escalabilidade do código.
+- **UI/UX Básico:** ✔ Aplicamos conceitos básicos de design de interface do usuário (UI) e experiência do usuário (UX) para garantir uma experiência agradável para o usuário final.
+- **Desempenho e Otimização de Imagens:**  ✔Implementamos técnicas de otimização para melhorar o desempenho do site, incluindo a compressão de imagens para reduzir o tempo de carregamento.
+- **SEO e Acessibilidade:** ✔ Utilizamos meta tags estratégicas para otimizar o site para mecanismos de busca (SEO) e implementamos práticas de acessibilidade para garantir que o site seja acessível para todos os usuários, incluindo aqueles com deficiências.
 
 - **Design Responsivo e Mobile First":** No projeto, priorizamos o design responsivo e adotamos a abordagem mobile-first, garantindo total funcionalidade e estética em dispositivos móveis. Expandimos o design para dispositivos maiores, mantendo consistência e usabilidade em todas as plataformas, assegurando uma experiência otimizada para todos os usuários.
 
