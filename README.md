@@ -16,25 +16,25 @@ O **Projeto Landing Smart Watch TrackMate** é um site de landing page com temá
 
 ## Tabela de Conteúdos 
 
-- [Landing Page League of Legends](#landing-page-league-of-legends)
-- [Descrição](#descrição)
-- [Objetivo do Projeto](#objetivo-do-projeto-)
-- [Preview do Projeto](#preview-do-projeto)
-- [Instalação](#instalação-)
-- [Uso](#uso-)
-- [Linguagens Utilizadas](#linguagens-utilizadas-)
-- [Ferramentas](#ferramentas-)
-- [Plugins](#plugins-)
-- [Sistema Operacional](#sistema-operacional-)
-- [Demonstração do Projeto](#demonstração-do-projeto-)
-- [Testes](#testes-)
-- [Aprendizados](#aprendizados-)
-- [Dificuldades](#dificuldades-)
-- [Contribuição](#contribuição-)
-- [Licença](#licença-)
-- [Contato](#contato-)
-- [Updates](#updates-)
-
+  - [Landing Page League of Legends](#landingpage-Smart-Watch-TrackMate)
+  - [Descrição](#descrição)
+  - [Objetivo do Projeto](#objetivo-do-projeto)
+  - [Demonstração](#demonstração)
+  - [Instalação](#instalação)
+  - [Uso](#uso)
+  - [SistemaOperacional](#Sistema-Operacional)
+  - [Linguagens Utilizadas](#linguagens-utilizadas)
+  - [Ferramentas](#ferramentas)
+  - [Plugins](#plugins)
+  - [Testes](#testes)
+  - [Fotos do Projeto](#fotos-do-projeto)
+  - [Aprendizados](#aprendizados)
+  - [Técnicas Aplicadas](#técnicas-aplicadas)
+  - [Dificuldades](#dificuldades)
+  - [Contribuição](#contribuição)
+  - [Licença](#licença)
+  - [Contato](#contato)
+  - [Updates](#updates)
 
 
 ## Objetivo do Projeto 🎯
@@ -74,8 +74,12 @@ cd LandingPage-SmartWatchTrackMate
 
 Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o site aqui](https://landing-page-smart-watch-track-mate.vercel.app/). Também é possível fazer o download e abrir utilizando o Visual Studio Code, ou através do navegador.
 
+### Sistema Operacional 🖥️
+
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 ## Linguagens Utilizadas 💻
+
 <div>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25" title="Google Chrome" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">HTML:</strong> Utilizado para estruturar e definir o conteúdo do nosso projeto web de forma semântica e acessível.
@@ -87,36 +91,33 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 
 ## Ferramentas 🧰🛠️
 
-<div>
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
-  <div style="display: flex; align-items: center; justify-content: center;">
+
+<div>
+  <div style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25" title="VSCode" style="pointer-events: none;"/> 
     <strong>VSCode:</strong> 
     <span>Um editor de código fonte gratuito e altamente personalizável para desenvolvimento web.</span>
   </div>
 
-  <div style="display: flex; align-items: center; justify-content: center;">
+  <div style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="25" title="Git" style="pointer-events: none;"/> 
     <strong>Git:</strong> 
     <span>Um sistema de controle de versão distribuído amplamente utilizado para o desenvolvimento colaborativo de projetos de software.</span>
   </div>
 
-  <div style="display: flex; align-items: center; justify-content: center;">
+  <div style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" width="25" title="Google Chrome" style="pointer-events: none;"/> 
     <strong>Google Chrome:</strong> 
     <span>Um dos navegadores mais populares, ideal para testar e depurar projetos web.</span>
   </div>
 
-  <div style="display: flex; align-items: center; justify-content: center;">
+  <div style="display: flex; align-items: center;">
     <img src="https://img.icons8.com/?size=512&id=iWw83PVcBpLw&format=png" width="25" title="Canva" style="pointer-events: none;" /> 
     <strong>Canva:</strong> 
     <span>Uma plataforma de design gráfico online que permite criar uma variedade de conteúdos visuais, como apresentações, cartazes, mídias sociais, entre outros, de forma simples e intuitiva.</span>
   </div>
-
-
-
-
-
 
 </div>
 
@@ -124,7 +125,7 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 
 - **Live Server:** Um plugin para o VSCode que fornece um servidor de desenvolvimento com recarga automática para páginas web.
 
-## Demonstração do Projeto 
+## Demonstração do Projeto 📷
 
 **Versão Mobile**
 
@@ -136,6 +137,8 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
     <img src="https://i.imgur.com/dQk73Ct.png" width="100px">
     <img src="https://i.imgur.com/Eu6OqTk.png" width="100px">
 </div>
+
+<br>
 
 **Versão Desktop**
 
@@ -207,13 +210,13 @@ Este projeto está licenciado sob a Nome da Licença - veja o arquivo LICENSE pa
 
 ## Contato 📧☎️
 
-Se você tiver alguma dúvida ou sugestão sobre o Título do Projeto, entre em contato:
+Se você tiver alguma dúvida ou sugestão sobre o Projeto, entre em contato:
 
-- Email 📧: [danielguilhermetb@gmail.com](mailto:danielguilhermetb@gmail.com)
-- Website 🌐: [WebSite - developer damniel](https://damniel-guilherme.github.io/portifolio-dev.damniel/)
-- LinkedIn 💼: [Daniel Guilherme](https://www.linkedin.com/in/damniel-guilherme-2b1600250/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
+
 
 Não hesite em nos contatar. Estamos sempre aqui para ajudar!
+
 
 ## Updates 🔄
 
