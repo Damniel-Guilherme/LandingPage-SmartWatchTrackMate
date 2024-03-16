@@ -114,12 +114,12 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 **Versão Desktop**
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://i.imgur.com/hC3lPEW.png" width="200px">
-    <img src="https://i.imgur.com/6lu4jvX.png" width="200px">
-    <img src="https://i.imgur.com/WoiHuF4.png" width="200px">
-    <img src="https://i.imgur.com/Zot6AlO.png" width="200px">
-    <img src="https://i.imgur.com/slnGdzd.png" width="200px">
-    <img src="https://i.imgur.com/UKZf2u0.png" width="200px">
+    <img src="https://i.imgur.com/hC3lPEW.png" width="250px">
+    <img src="https://i.imgur.com/6lu4jvX.png" width="250px">
+    <img src="https://i.imgur.com/WoiHuF4.png" width="250px">
+    <img src="https://i.imgur.com/Zot6AlO.png" width="250px">
+    <img src="https://i.imgur.com/slnGdzd.png" width="250px">
+    <img src="https://i.imgur.com/UKZf2u0.png" width="250px">
 </div>
 
 
