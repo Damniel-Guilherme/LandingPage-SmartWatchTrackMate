@@ -100,22 +100,23 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 
 ## Demonstração do Projeto 
 
-![Snake animation](https://s9.gifyu.com/images/SUVXz.gif)
+**Versão Mobile**
 
-<img src="https://s9.gifyu.com/images/SUVXz.gif" alt="Imagem Desktop" width="400"/> 
-<img src="https://s9.gifyu.com/images/SUVPu.gif" alt="Imagem Mobile" width="105"/>
+<img src="https://i.imgur.com/6nkAfRj.png" width="100px">
+<img src="https://i.imgur.com/l2OIJoS.png" width="100px">
+<img src="https://i.imgur.com/Wbmha2I.png" width="100px">
+<img src="https://i.imgur.com/wCLlszO.png" width="100px">
+<img src="https://i.imgur.com/dQk73Ct.png" width="100px">
+<img src="https://i.imgur.com/Eu6OqTk.png" width="100px">
 
+**Versão Desktop**
 
-<div style="display: flex; flex-direction: row;">
-    <div style="margin-right: 20px;">
-        <img src="https://s9.gifyu.com/images/SUVXz.gif" alt="Imagem Desktop" width="400">
-    </div>
-    <div>
-        <img src="https://s9.gifyu.com/images/SUVPu.gif" alt="Imagem Mobile" width="105">
-    </div>
-</div>
-
-![Gato fofo](https://s9.gifyu.com/images/SUVPu.gif)
+<img src="https://i.imgur.com/hC3lPEW.png" width="200px">
+<img src="https://i.imgur.com/6lu4jvX.png" width="200px">
+<img src="https://i.imgur.com/WoiHuF4.png" width="200px">
+<img src="https://i.imgur.com/Zot6AlO.png" width="200px">
+<img src="https://i.imgur.com/slnGdzd.png" width="200px">
+<img src="https://i.imgur.com/UKZf2u0.png" width="200px">
 
 ## Testes 🔧
 
