@@ -22,7 +22,7 @@ O **Projeto Landing Smart Watch TrackMate** é um site de landing page com temá
 - [Demonstração](#demonstração)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Sistema Operacional](#sistema-operacional)  <!-- Corrigido o identificador -->
+- [Sistema Operacional](#sistema-operacional)  <!-- Corrigido o texto âncora -->
 - [Linguagens Utilizadas](#linguagens-utilizadas)
 - [Ferramentas](#ferramentas)
 - [Plugins](#plugins)
