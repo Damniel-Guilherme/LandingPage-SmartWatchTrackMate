@@ -10,7 +10,7 @@
     </div>
 </div>
 
-## Descrição 📖
+## Descrição 📝
 
 O **Projeto Landing Smart Watch TrackMate** é um site de landing page com temática do jogo League of Legends, desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML E CSS] PROJETO 2.
 
@@ -70,7 +70,7 @@ git clone https://github.com/Damniel-Guilherme/LandingPage-SmartWatchTrackMate.g
 cd LandingPage-SmartWatchTrackMate
 ```
 
-# Uso 📝
+## Uso 💬
 
 Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o site aqui](https://landing-page-smart-watch-track-mate.vercel.app/). Também é possível fazer o download e abrir utilizando o Visual Studio Code, ou através do navegador.
 
@@ -78,7 +78,7 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-## Linguagens Utilizadas 📝
+## Linguagens Utilizadas 📚
 
 <div>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
