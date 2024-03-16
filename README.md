@@ -100,6 +100,10 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 
 ## Demonstração do Projeto 
 
+<img src="https://s9.gifyu.com/images/SUVXz.gif" alt="Imagem Desktop" width="400"/> 
+<img src="https://s9.gifyu.com/images/SUVPu.gif" alt="Imagem Mobile" width="105"/>
+
+
 <div style="display: flex; flex-direction: row;">
     <div style="margin-right: 20px;">
         <img src="https://s9.gifyu.com/images/SUVXz.gif" alt="Imagem Desktop" width="400">
