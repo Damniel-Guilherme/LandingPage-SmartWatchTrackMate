@@ -100,6 +100,8 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 
 ## Demonstração do Projeto 
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 <img src="https://s9.gifyu.com/images/SUVXz.gif" alt="Imagem Desktop" width="400"/> 
 <img src="https://s9.gifyu.com/images/SUVPu.gif" alt="Imagem Mobile" width="105"/>
 
