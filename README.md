@@ -78,7 +78,7 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-## Linguagens Utilizadas 💻
+## Linguagens Utilizadas 📝
 
 <div>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
