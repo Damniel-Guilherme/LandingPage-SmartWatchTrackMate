@@ -37,9 +37,16 @@ O objetivo central deste projeto é promover a aquisição e aprimoramento dos c
 **Início:** ~~07/01/2024~~
 **Término:** ~~26/01/2024~~
 
-## Demonstração
+## Preview do Projeto
 
-![Demonstração](url img do projeo)
+<div style="display: flex; flex-direction: row;">
+    <div style="margin-right: 20px;">
+        <img src="https://i.imgur.com/q33yQVp.png" alt="Imagem Desktop" width="400">
+    </div>
+    <div>
+        <img src="https://i.imgur.com/V1uBK1a.png" alt="Imagem Mobile" width="105">
+    </div>
+</div>
 
 ## Instalação ⚙️
 
@@ -91,20 +98,22 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 
 - **Live Server:** Um plugin para o VSCode que fornece um servidor de desenvolvimento com recarga automática para páginas web.
 
+## Demonstração do Projeto 
+
+<div style="display: flex; flex-direction: row;">
+    <div style="margin-right: 20px;">
+        <img src="https://s9.gifyu.com/images/SUVXz.gif" alt="Imagem Desktop" width="400">
+    </div>
+    <div>
+        <img src="https://s9.gifyu.com/images/SUVPu.gif" alt="Imagem Mobile" width="105">
+    </div>
+</div>
+
 ## Testes 🔧
 
 Lighthouse Chrome Test
 
-<img src="src" width="300px">
-
-## Preview do Projeto 
-**Versão Desktop**
-
-<img src="url do projeto" width="550" height="300">  <img src="https://i.imgur.com/OTAtK0W.jpeg" width="550" height="300">
-
-**Versão Mobile**
-| <img src="" width="200"> | <img src="" width="200"> | <img src="" width="200"> |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<img src="https://i.imgur.com/F5m7sq2.png" width="300px">
 
 ## Aprendizados 💡
 
