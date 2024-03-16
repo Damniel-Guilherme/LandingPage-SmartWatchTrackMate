@@ -1,4 +1,15 @@
-# Landing Page - Smart Watch TrackMate
+
+<div align="center">
+<h1>Landing Page - Smart Watch TrackMate</h1>
+<div> 
+    <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" />
+    <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" />
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" />
+    <img alt="Github License" src="https://img.shields.io/github/license/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" />
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" />
+    <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" />
+</div>
+</div>
 
 ## Descrição 📖
 
@@ -77,19 +88,37 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 ## Ferramentas 🧰🛠️
 
 <div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">VSCode:</strong> Um editor de código fonte gratuito e altamente personalizável para desenvolvimento web.
+
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25" title="VSCode" style="pointer-events: none;"/> 
+    <strong>VSCode:</strong> 
+    <span>Um editor de código fonte gratuito e altamente personalizável para desenvolvimento web.</span>
   </div>
 
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">Google Chrome:</strong> Um dos navegadores mais populares, ideal para testar e depurar projetos web.
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="25" title="Git" style="pointer-events: none;"/> 
+    <strong>Git:</strong> 
+    <span>Um sistema de controle de versão distribuído amplamente utilizado para o desenvolvimento colaborativo de projetos de software.</span>
   </div>
 
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">Git:</strong> Um sistema de controle de versão distribuído amplamente utilizado para o desenvolvimento colaborativo de projetos de software.
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" width="25" title="Google Chrome" style="pointer-events: none;"/> 
+    <strong>Google Chrome:</strong> 
+    <span>Um dos navegadores mais populares, ideal para testar e depurar projetos web.</span>
   </div>
+
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://img.icons8.com/?size=512&id=iWw83PVcBpLw&format=png" width="25" title="Canva" style="pointer-events: none;" /> 
+    <strong>Canva:</strong> 
+    <span>Uma plataforma de design gráfico online que permite criar uma variedade de conteúdos visuais, como apresentações, cartazes, mídias sociais, entre outros, de forma simples e intuitiva.</span>
+  </div>
+
+
+
+
+
+
 </div>
-
 
 ## Plugins 🧩
 
