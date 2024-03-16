@@ -100,7 +100,7 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 **Versão Mobile**
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://i.imgur.com/6nkAfRj.png" width="100px">
+    <img src="https://i.imgur.com/JV74qay.png" width="100px">
     <img src="https://i.imgur.com/l2OIJoS.png" width="100px">
     <img src="https://i.imgur.com/Wbmha2I.png" width="100px">
     <img src="https://i.imgur.com/wCLlszO.png" width="100px">
