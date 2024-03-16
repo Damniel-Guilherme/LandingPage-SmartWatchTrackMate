@@ -1,14 +1,13 @@
-
 <div align="center">
-<h1>Landing Page - Smart Watch TrackMate</h1>
-<div> 
-    <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" />
-    <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" />
-    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" />
-    <img alt="Github License" src="https://img.shields.io/github/license/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" />
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" />
-    <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" />
-</div>
+    <h1>Landing Page - Smart Watch TrackMate</h1>
+    <div> 
+        <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" style="pointer-events: none;" />
+        <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" style="pointer-events: none;" />
+        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" style="pointer-events: none;" />
+        <img alt="Github License" src="https://img.shields.io/github/license/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" style="pointer-events: none;" />
+        <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" style="pointer-events: none;" />
+        <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" style="pointer-events: none;" />
+    </div>
 </div>
 
 ## Descrição 📖
@@ -17,24 +16,25 @@ O **Projeto Landing Smart Watch TrackMate** é um site de landing page com temá
 
 ## Tabela de Conteúdos 
 
-  - [Landing Page League of Legends](#landingpage-Smart-Watch-TrackMate)
-  - [Descrição](#descrição)
-  - [Objetivo do Projeto](#objetivo-do-projeto)
-  - [Demonstração](#demonstração)
-  - [Instalação](#instalação)
-  - [Uso](#uso)
-  - [Linguagens Utilizadas](#linguagens-utilizadas)
-  - [Ferramentas](#ferramentas)
-  - [Plugins](#plugins)
-  - [Testes](#testes)
-  - [Fotos do Projeto](#fotos-do-projeto)
-  - [Aprendizados](#aprendizados)
-  - [Técnicas Aplicadas](#técnicas-aplicadas)
-  - [Dificuldades](#dificuldades)
-  - [Contribuição](#contribuição)
-  - [Licença](#licença)
-  - [Contato](#contato)
-  - [Updates](#updates)
+- [Landing Page League of Legends](#landing-page-league-of-legends)
+- [Descrição](#descrição)
+- [Objetivo do Projeto](#objetivo-do-projeto-)
+- [Preview do Projeto](#preview-do-projeto)
+- [Instalação](#instalação-)
+- [Uso](#uso-)
+- [Linguagens Utilizadas](#linguagens-utilizadas-)
+- [Ferramentas](#ferramentas-)
+- [Plugins](#plugins-)
+- [Sistema Operacional](#sistema-operacional-)
+- [Demonstração do Projeto](#demonstração-do-projeto-)
+- [Testes](#testes-)
+- [Aprendizados](#aprendizados-)
+- [Dificuldades](#dificuldades-)
+- [Contribuição](#contribuição-)
+- [Licença](#licença-)
+- [Contato](#contato-)
+- [Updates](#updates-)
+
 
 
 ## Objetivo do Projeto 🎯
