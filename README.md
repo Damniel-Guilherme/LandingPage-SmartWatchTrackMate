@@ -40,8 +40,8 @@ O objetivo central deste projeto é promover a aquisição e aprimoramento dos c
 ## Preview do Projeto
 
 <div style="display: flex; flex-direction: row;">
-        <img src="https://i.imgur.com/q33yQVp.png" alt="Imagem Desktop" width="400">
-        <img src="https://i.imgur.com/V1uBK1a.png" alt="Imagem Mobile" width="105">
+        <img src="https://i.imgur.com/q33yQVp.png" alt="Imagem Desktop" width="250">
+        <img src="https://i.imgur.com/V1uBK1a.png" alt="Imagem Mobile" width="100">
 </div>
 
 
