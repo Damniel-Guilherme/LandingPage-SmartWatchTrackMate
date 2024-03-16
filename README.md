@@ -22,7 +22,7 @@ O **Projeto Landing Smart Watch TrackMate** é um site de landing page com temá
 - [Demonstração](#demonstração)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Sistema Operacional](#sistema-operacional)
+- [Sistema Operacional](#sistema-operacional)  <!-- Corrigido o identificador -->
 - [Linguagens Utilizadas](#linguagens-utilizadas)
 - [Ferramentas](#ferramentas)
 - [Plugins](#plugins)
@@ -35,6 +35,7 @@ O **Projeto Landing Smart Watch TrackMate** é um site de landing page com temá
 - [Licença](#licença)
 - [Contato](#contato)
 - [Updates](#updates)
+
 
 ## Objetivo do Projeto 🎯
 
@@ -73,7 +74,7 @@ cd LandingPage-SmartWatchTrackMate
 
 Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o site aqui](https://landing-page-smart-watch-track-mate.vercel.app/). Também é possível fazer o download e abrir utilizando o Visual Studio Code, ou através do navegador.
 
-##Sistema Operacional 🖥️
+## Sistema Operacional 🖥️
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
