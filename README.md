@@ -102,21 +102,26 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 
 **Versão Mobile**
 
-<img src="https://i.imgur.com/6nkAfRj.png" width="100px">
-<img src="https://i.imgur.com/l2OIJoS.png" width="100px">
-<img src="https://i.imgur.com/Wbmha2I.png" width="100px">
-<img src="https://i.imgur.com/wCLlszO.png" width="100px">
-<img src="https://i.imgur.com/dQk73Ct.png" width="100px">
-<img src="https://i.imgur.com/Eu6OqTk.png" width="100px">
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://i.imgur.com/6nkAfRj.png" width="100px">
+    <img src="https://i.imgur.com/l2OIJoS.png" width="100px">
+    <img src="https://i.imgur.com/Wbmha2I.png" width="100px">
+    <img src="https://i.imgur.com/wCLlszO.png" width="100px">
+    <img src="https://i.imgur.com/dQk73Ct.png" width="100px">
+    <img src="https://i.imgur.com/Eu6OqTk.png" width="100px">
+</div>
 
 **Versão Desktop**
 
-<img src="https://i.imgur.com/hC3lPEW.png" width="200px">
-<img src="https://i.imgur.com/6lu4jvX.png" width="200px">
-<img src="https://i.imgur.com/WoiHuF4.png" width="200px">
-<img src="https://i.imgur.com/Zot6AlO.png" width="200px">
-<img src="https://i.imgur.com/slnGdzd.png" width="200px">
-<img src="https://i.imgur.com/UKZf2u0.png" width="200px">
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://i.imgur.com/hC3lPEW.png" width="200px">
+    <img src="https://i.imgur.com/6lu4jvX.png" width="200px">
+    <img src="https://i.imgur.com/WoiHuF4.png" width="200px">
+    <img src="https://i.imgur.com/Zot6AlO.png" width="200px">
+    <img src="https://i.imgur.com/slnGdzd.png" width="200px">
+    <img src="https://i.imgur.com/UKZf2u0.png" width="200px">
+</div>
+
 
 ## Testes 🔧
 
