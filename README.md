@@ -73,7 +73,7 @@ cd LandingPage-SmartWatchTrackMate
 
 Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o site aqui](https://landing-page-smart-watch-track-mate.vercel.app/). Também é possível fazer o download e abrir utilizando o Visual Studio Code, ou através do navegador.
 
-### Sistema Operacional 🖥️
+##Sistema Operacional 🖥️
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
