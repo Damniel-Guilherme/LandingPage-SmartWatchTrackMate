@@ -91,9 +91,6 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 
 ## Ferramentas 🧰🛠️
 
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-
-
 <div>
   <div style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25" title="VSCode" style="pointer-events: none;"/> 
