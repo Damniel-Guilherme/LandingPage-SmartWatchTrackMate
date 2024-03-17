@@ -16,7 +16,7 @@ O **Projeto Landing Smart Watch TrackMate** é um site de landing page com temá
 
 ## Tabela de Conteúdos 
 
-- [Landing Page League of Legends](#landing-page-league-of-legends)
+- [Landing Page SmartWatch](#Landing-Page-SmartWatch)
 - [Descrição](#descrição)
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Demonstração do Projeto](#Demonstração-Do-Projeto)
