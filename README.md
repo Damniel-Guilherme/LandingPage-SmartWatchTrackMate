@@ -187,6 +187,10 @@ Neste projeto,  ~~aplicamos~~  várias técnicas de desenvolvimento web, incluin
 
 Minha maior dificuldade foi com os menus de entrada (input) e a manipulação dos logos em formato SVG.
 
+## Licença 📄
+
+Este projeto está licenciado sob a Nome da Licença - veja o arquivo LICENSE para mais detalhes.
+
 ## Contribuição 📑 
 
 A contribuição para o Título do Projeto é bem-vinda! Para contribuir, siga estas etapas:
@@ -200,10 +204,6 @@ A contribuição para o Título do Projeto é bem-vinda! Para contribuir, siga e
 4. **E muito mais...** Seja criativo! Toda forma de colaboração é bem-vinda.
 
 Por favor, leia atentamente nossas diretrizes de contribuição antes de começar.
-
-## Licença 📄
-
-Este projeto está licenciado sob a Nome da Licença - veja o arquivo LICENSE para mais detalhes.
 
 ## Contato 📧☎️
 
