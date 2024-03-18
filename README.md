@@ -36,7 +36,6 @@ O **Projeto Landing Smart Watch TrackMate** é um site de landing page com temá
 - [Contato](#contato)
 - [Updates](#updates)
 
-
 ## Objetivo do Projeto 🎯
 
 **Objetivo Profissional do Projeto:**
@@ -54,7 +53,6 @@ O objetivo central deste projeto é promover a aquisição e aprimoramento dos c
         <img src="https://i.imgur.com/wGoOMtE.png" alt="Imagem Mobile" width="100">
         <img src="https://i.imgur.com/q33yQVp.png" alt="Imagem Desktop" width="250">
 </div>
-
 
 ## Instalação ⚙️
 
@@ -115,7 +113,6 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
     <strong>Canva:</strong> 
     <span>Uma plataforma de design gráfico online que permite criar uma variedade de conteúdos visuais, como apresentações, cartazes, mídias sociais, entre outros, de forma simples e intuitiva.</span>
   </div>
-
 </div>
 
 ## Plugins 🧩
@@ -147,7 +144,6 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
     <img src="https://i.imgur.com/slnGdzd.png" width="250px">
     <img src="https://i.imgur.com/UKZf2u0.png" width="250px">
 </div>
-
 
 ## Testes 🔧
 
@@ -211,9 +207,7 @@ Se você tiver alguma dúvida ou sugestão sobre o Projeto, entre em contato:
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
 
-
 Não hesite em nos contatar. Estamos sempre aqui para ajudar!
-
 
 ## Updates 🔄
 
