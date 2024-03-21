@@ -115,6 +115,12 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
   </div>
 </div>
 
+<div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/?size=512&id=W0YEwBDDfTeu&format=png" width="25" title="Canva" style="pointer-events: none;" /> 
+    <strong>Figma:</strong> 
+    <span>Uma plataforma de design gráfico online que permite criar uma variedade de conteúdos visuais, como apresentações, cartazes, mídias sociais, entre outros, de forma simples e intuitiva.</span>
+</div>
+
 ## Plugins 🧩
 
 - **Live Server:** Um plugin para o VSCode que fornece um servidor de desenvolvimento com recarga automática para páginas web.
