@@ -217,6 +217,6 @@ Não hesite em nos contatar. Estamos sempre aqui para ajudar!
 
 ## Updates 🔄
 
-Mantenha-se atualizado com as últimas novidades e atualizações do projeto: **Landing Page Smart Watch TrackMate**:
+Mantenha-se atualizado com as últimas novidades e atualizações do projeto:
 
 - [Histórico de Atualizações](#) [**Sem Atualizações no Momento!!**]
