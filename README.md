@@ -1,30 +1,40 @@
-# Landing Page - Smart Watch TrackMate
+<div align="center">
+    <h1>Landing Page - Smart Watch TrackMate</h1>
+    <div> 
+        <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" style="pointer-events: none;" />
+        <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" style="pointer-events: none;" />
+        <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" style="pointer-events: none;" />
+        <img alt="Github License" src="https://img.shields.io/github/license/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" style="pointer-events: none;" />
+        <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" style="pointer-events: none;" />
+        <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Damniel-Guilherme/LandingPage-SmartWatchTrackMate" style="pointer-events: none;" />
+    </div>
+</div>
 
-## Descrição 📖
+## Descrição 📝
 
-O **Projeto Landing Smart Watch TrackMate** é um site de landing page com temática do jogo League of Legends, desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML E CSS] PROJETO 2.
+O **Projeto Landing Page Smart Watch TrackMate** é um site desenvolvido com o propósito de aprendizado, seguindo o roadmap [RoadMap ETAPA 1 - HTML E CSS] PROJETO 2.
 
 ## Tabela de Conteúdos 
 
-  - [Landing Page League of Legends](#landingpage-Smart-Watch-TrackMate)
-  - [Descrição](#descrição)
-  - [Objetivo do Projeto](#objetivo-do-projeto)
-  - [Demonstração](#demonstração)
-  - [Instalação](#instalação)
-  - [Uso](#uso)
-  - [Linguagens Utilizadas](#linguagens-utilizadas)
-  - [Ferramentas](#ferramentas)
-  - [Plugins](#plugins)
-  - [Testes](#testes)
-  - [Fotos do Projeto](#fotos-do-projeto)
-  - [Aprendizados](#aprendizados)
-  - [Técnicas Aplicadas](#técnicas-aplicadas)
-  - [Dificuldades](#dificuldades)
-  - [Contribuição](#contribuição)
-  - [Licença](#licença)
-  - [Contato](#contato)
-  - [Updates](#updates)
-
+- [Landing Page SmartWatch](#Landing-Page-SmartWatch)
+- [Descrição](#descrição)
+- [Objetivo do Projeto](#objetivo-do-projeto)
+- [Demonstração do Projeto](#Demonstração-Do-Projeto)
+- [Instalação](#instalação)
+- [Uso](#uso)
+- [Sistema Operacional](#sistema-operacional)
+- [Linguagens Utilizadas](#linguagens-utilizadas)
+- [Ferramentas](#ferramentas)
+- [Plugins](#plugins)
+- [Testes](#testes)
+- [Fotos do Projeto](#fotos-do-projeto)
+- [Aprendizados](#aprendizados)
+- [Técnicas Aplicadas](#técnicas-aplicadas)
+- [Dificuldades](#dificuldades)
+- [Licença](#licença)
+- [Contribuição](#contribuição)
+- [Contato](#contato)
+- [Updates](#updates)
 
 ## Objetivo do Projeto 🎯
 
@@ -34,12 +44,15 @@ O objetivo central deste projeto é promover a aquisição e aprimoramento dos c
 
 **Datas do Projeto:** 📅
 
-**Início:** 17/01/2024
-**Término:** 09/02/2024
+**Início:** ~~07/01/2024~~ ⏳
+**Término:** ~~26/01/2024~~ || ∞
 
-## Demonstração
+## Preview do Projeto
 
-![Demonstração](url img do projeo)
+<div style="display: flex; flex-direction: row;">
+        <img src="https://i.imgur.com/wGoOMtE.png" alt="Imagem Mobile" width="100">
+        <img src="https://i.imgur.com/q33yQVp.png" alt="Imagem Desktop" width="250">
+</div>
 
 ## Instalação ⚙️
 
@@ -55,12 +68,16 @@ git clone https://github.com/Damniel-Guilherme/LandingPage-SmartWatchTrackMate.g
 cd LandingPage-SmartWatchTrackMate
 ```
 
-# Uso 📝
+## Uso 💬
 
 Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o site aqui](https://landing-page-smart-watch-track-mate.vercel.app/). Também é possível fazer o download e abrir utilizando o Visual Studio Code, ou através do navegador.
 
+## Sistema Operacional 🖥️
 
-## Linguagens Utilizadas 💻
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
+## Linguagens Utilizadas 📚
+
 <div>
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="25" title="Google Chrome" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">HTML:</strong> Utilizado para estruturar e definir o conteúdo do nosso projeto web de forma semântica e acessível.
@@ -73,38 +90,72 @@ Para maior comodidade, você pode acessar diretamente pelo site 🌐[Acesse o si
 ## Ferramentas 🧰🛠️
 
 <div>
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">VSCode:</strong> Um editor de código fonte gratuito e altamente personalizável para desenvolvimento web.
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25" title="VSCode" style="pointer-events: none;"/> 
+    <strong>VSCode:</strong> 
+    <span>Um editor de código fonte gratuito e altamente personalizável para desenvolvimento web.</span>
   </div>
 
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">Google Chrome:</strong> Um dos navegadores mais populares, ideal para testar e depurar projetos web.
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="25" title="Git" style="pointer-events: none;"/> 
+    <strong>Git:</strong> 
+    <span>Um sistema de controle de versão distribuído amplamente utilizado para o desenvolvimento colaborativo de projetos de software.</span>
   </div>
 
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="25" title="CSS" style="margin-right: 10px; pointer-events: none;"/> <strong style="margin-right: 10px;">Git:</strong> Um sistema de controle de versão distribuído amplamente utilizado para o desenvolvimento colaborativo de projetos de software.
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" width="25" title="Google Chrome" style="pointer-events: none;"/> 
+    <strong>Google Chrome:</strong> 
+    <span>Um dos navegadores mais populares, ideal para testar e depurar projetos web.</span>
+  </div>
+
+  <div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/?size=512&id=iWw83PVcBpLw&format=png" width="25" title="Canva" style="pointer-events: none;" /> 
+    <strong>Canva:</strong> 
+    <span>Uma plataforma de design gráfico online que permite criar uma variedade de conteúdos visuais, como apresentações, cartazes, mídias sociais, entre outros, de forma simples e intuitiva.</span>
   </div>
 </div>
 
+<div style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/?size=512&id=W0YEwBDDfTeu&format=png" width="25" title="Canva" style="pointer-events: none;" /> 
+    <strong>Figma:</strong> 
+    <span>Uma plataforma de design gráfico online que permite criar uma variedade de conteúdos visuais, como apresentações, cartazes, mídias sociais, entre outros, de forma simples e intuitiva.</span>
+</div>
 
 ## Plugins 🧩
 
 - **Live Server:** Um plugin para o VSCode que fornece um servidor de desenvolvimento com recarga automática para páginas web.
 
+## Demonstração do Projeto 📷
+
+**Versão Mobile**
+
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://i.imgur.com/JV74qay.png" width="100px">
+    <img src="https://i.imgur.com/l2OIJoS.png" width="100px">
+    <img src="https://i.imgur.com/Wbmha2I.png" width="100px">
+    <img src="https://i.imgur.com/wCLlszO.png" width="100px">
+    <img src="https://i.imgur.com/dQk73Ct.png" width="100px">
+    <img src="https://i.imgur.com/Eu6OqTk.png" width="100px">
+</div>
+
+<br>
+
+**Versão Desktop**
+
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://i.imgur.com/hC3lPEW.png" width="250px">
+    <img src="https://i.imgur.com/6lu4jvX.png" width="250px">
+    <img src="https://i.imgur.com/WoiHuF4.png" width="250px">
+    <img src="https://i.imgur.com/Zot6AlO.png" width="250px">
+    <img src="https://i.imgur.com/slnGdzd.png" width="250px">
+    <img src="https://i.imgur.com/UKZf2u0.png" width="250px">
+</div>
+
 ## Testes 🔧
 
 Lighthouse Chrome Test
 
-<img src="src" width="300px">
-
-## Preview do Projeto 
-**Versão Desktop**
-
-<img src="url do projeto" width="550" height="300">  <img src="https://i.imgur.com/OTAtK0W.jpeg" width="550" height="300">
-
-**Versão Mobile**
-| <img src="" width="200"> | <img src="" width="200"> | <img src="" width="200"> |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<img src="https://i.imgur.com/F5m7sq2.png" width="300px">
 
 ## Aprendizados 💡
 
@@ -122,9 +173,9 @@ Durante o desenvolvimento deste projeto, aprendemos e praticamos diversas habili
 
 Esses aprendizados foram fundamentais para o sucesso e qualidade do nosso projeto, fornecendo uma base sólida para futuros desenvolvimentos e contribuições.
 
-## Técnicas Aplicadas 📌
+## ~~Técnicas Aplicadas~~  ✔📌
 
-Neste projeto, aplicamos várias técnicas de desenvolvimento web, incluindo:
+Neste projeto,  ~~aplicamos~~  várias técnicas de desenvolvimento web, incluindo:
 
 - **Boas Práticas e Código Limpo:** O código foi escrito seguindo boas práticas de programação, com comentários claros para facilitar a compreensão e manutenção.
 - **Componentização:** Dividimos o site em componentes reutilizáveis, como header, main e footer, para promover a manutenção e escalabilidade do código.
@@ -137,6 +188,10 @@ Neste projeto, aplicamos várias técnicas de desenvolvimento web, incluindo:
 ## Dificuldades 🚨
 
 Minha maior dificuldade foi com os menus de entrada (input) e a manipulação dos logos em formato SVG.
+
+## Licença 📄
+
+Este projeto está licenciado sob a Nome da Licença - veja o arquivo LICENSE para mais detalhes.
 
 ## Contribuição 📑 
 
@@ -152,22 +207,16 @@ A contribuição para o Título do Projeto é bem-vinda! Para contribuir, siga e
 
 Por favor, leia atentamente nossas diretrizes de contribuição antes de começar.
 
-## Licença 📄
-
-Este projeto está licenciado sob a Nome da Licença - veja o arquivo LICENSE para mais detalhes.
-
 ## Contato 📧☎️
 
-Se você tiver alguma dúvida ou sugestão sobre o Título do Projeto, entre em contato:
+Se você tiver alguma dúvida ou sugestão sobre o Projeto, entre em contato:
 
-- danielguilhermetb@gmail.com 📧🙋‍♂️
-- Website 🌐
-- LinkedIn 💼
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
 
 Não hesite em nos contatar. Estamos sempre aqui para ajudar!
 
 ## Updates 🔄
 
-Mantenha-se atualizado com as últimas novidades e atualizações do **Landing Page League of Legends**:
+Mantenha-se atualizado com as últimas novidades e atualizações do projeto:
 
 - [Histórico de Atualizações](#) [**Sem Atualizações no Momento!!**]
